@@ -16,3 +16,7 @@ So a few weeks back I receive a message from Mallam Abdullahi Abubakar about a p
 * After that, you will receive an auto-reply saying “Twilio Sandbox: ✅ You are all set! The sandbox can now send/receive messages from Whatsapp:+14155238886. Reply stop to leave the sandbox any time.” that means you are all set, what next is to send any greeting word like Hi, Hello or hay, the bot will take care of the rest. just follow the instruction from the bot.
 ### Some features will soon be added.
 ## Here are some screenshots.
+![demo1](screenshots/1.png)
+![demo1](screenshots/2.png)
+![demo1](screenshots/3.png)
+![demo1](screenshots/4.png)
